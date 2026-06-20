@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunMath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21bdeba5be752ee4c008bd9e4313f4bb0bff3a5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c0c03f0d72685f507882840070815ab77f6b65")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunMath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunMath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
