@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\funmath\\FunMath.csproj": {}
+    "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\FunMath\\FunMath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\funmath\\FunMath.csproj": {
+    "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\FunMath\\FunMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\funmath\\FunMath.csproj",
+        "projectUniqueName": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\FunMath\\FunMath.csproj",
         "projectName": "FunMath",
-        "projectPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\funmath\\FunMath.csproj",
+        "projectPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\FunMath\\FunMath.csproj",
         "packagesPath": "C:\\Users\\nathaniel-lucero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\funmath\\obj\\",
+        "outputPath": "C:\\Users\\nathaniel-lucero\\Desktop\\practice\\CSharp\\FunMath\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
