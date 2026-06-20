@@ -1,0 +1,14 @@
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\bin\Debug\net10.0\FunMath.exe
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\bin\Debug\net10.0\FunMath.deps.json
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\bin\Debug\net10.0\FunMath.runtimeconfig.json
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\bin\Debug\net10.0\FunMath.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\bin\Debug\net10.0\FunMath.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.AssemblyInfoInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.AssemblyInfo.cs
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.csproj.CoreCompileInputs.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\refint\FunMath.dll
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.pdb
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\FunMath.genruntimeconfig.cache
+C:\Users\nathaniel-lucero\Desktop\practice\CSharp\funmath\obj\Debug\net10.0\ref\FunMath.dll
